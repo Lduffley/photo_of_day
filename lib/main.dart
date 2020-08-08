@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nasa1_app/model/Nasa_model.dart';
 import 'package:nasa1_app/network/network.dart';
-import 'package:nasa1_app/ui/mid_view.dart'
+import 'package:nasa1_app/ui/mid_view.dart';
 
 void main() {
   runApp(MyApp());
