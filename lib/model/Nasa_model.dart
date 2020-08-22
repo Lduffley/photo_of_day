@@ -1,7 +1,7 @@
 class NasaModel {
   String copyright;
   String date;
-  String explanation;
+  String explanation
   String hdurl;
   String mediaType;
   String serviceVersion;
